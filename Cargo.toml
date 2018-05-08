@@ -1,0 +1,6 @@
+[package]
+name = "keccak-rewind"
+version = "0.1.0"
+authors = ["Peter van Nostrand <jnz@riseup.net>"]
+
+[dependencies]
